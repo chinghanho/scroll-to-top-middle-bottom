@@ -1,0 +1,5 @@
+[
+  { "keys": ["super+m", "super+t"], "command": "move_caret_top" },
+  { "keys": ["super+m", "super+m"], "command": "move_caret_middle"},
+  { "keys": ["super+m", "super+b"], "command": "move_caret_bottom"}
+]

@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+m", "ctrl+t"], "command": "move_caret_top" },
+  { "keys": ["ctrl+m", "ctrl+m"], "command": "move_caret_middle"},
+  { "keys": ["ctrl+m", "ctrl+b"], "command": "move_caret_bottom"}
+]
